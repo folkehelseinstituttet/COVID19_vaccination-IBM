@@ -1,12 +1,12 @@
 # Modeling geographic vaccination strategies for COVID-19 in Norway
 
 [![License](https://img.shields.io/badge/license-YourLicense-brightgreen)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/imlouischan/corona-no)](https://github.com/imlouischan/corona-no/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/folkehelseinstituttet/COVID19_vaccination-IBM)](https://github.com/folkehelseinstituttet/COVID19_vaccination-IBM/stargazers)
 
 ## Descriptions
 
-This GitHub repository (https://github.com/imlouischan/corona-no) contains the codes of the individual-based model (IBM) for simulating vaccination strategies for COVID-19 in Norway. 
-For the codes of the meta-population model (MPM), please refer to another GitHub repository (https://github.com/Gulfa/regional_vaccination). 
+This GitHub repository (https://github.com/folkehelseinstituttet/COVID19_vaccination-IBM or https://github.com/imlouischan/corona-no) contains the codes of the individual-based model (IBM) for simulating vaccination strategies for COVID-19 in Norway. Due to Git LFS data quota limitations, some large files are only available at https://github.com/imlouischan/corona-no. 
+For the codes of the meta-population model (MPM), please refer to another GitHub repository (https://github.com/folkehelseinstituttet/COVID19_vaccination-MPM or https://github.com/Gulfa/regional_vaccination). 
 
 ## Contents
 
